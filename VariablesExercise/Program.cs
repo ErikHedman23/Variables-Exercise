@@ -16,7 +16,7 @@
 
             decimal pennies = 0.67m;
 
-            Console.WriteLine($"My name is {myName}. I weigh about {weight}, and my favorite letter is {favLetter}.  I have ${wallet} and {pennies} cents in my savings.");
+            Console.WriteLine($"My name is {myName}. I weigh about {weight}, and my favorite letter is {favLetter}.  I have ${wallet} and {pennies} cents in my savings. It is {tall} that I am tall.");
 
         }
     }
